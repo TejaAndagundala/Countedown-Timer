@@ -1,0 +1,25 @@
+.countdown-container {
+  text-align: center;
+  margin: 50px auto;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.start-stop,
+.reset {
+  padding: 5px 16px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.timer {
+  font-size: 1.5rem;
+}
